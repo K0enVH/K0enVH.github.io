@@ -1,3 +1,6 @@
-ul {
-background-color: #096;  
-}
+'{
+background-image: url(bos.png);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
