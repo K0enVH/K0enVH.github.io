@@ -10,13 +10,13 @@ h1{
 }
 .navbar ul{
   list-style-type: none;
-  background-color: #3f3f3f;
+  background-color: #af1111;
   padding: 0px;
   margin: 0px;
   overflow: hidden;
 }
 .navbar a{
-  color: #808080;
+  color: #0c2199;
   text-decoration: none;
   padding: 15px;
   display: block;
