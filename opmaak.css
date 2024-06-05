@@ -1,30 +1,23 @@
-body{
-  margin: 0px;
-}
-main{
-  margin-left: 20px;
-  margin-right: 20px;
-}
-h1{
-  text-align: center;
-}
-.navbar ul{
+ul {
   list-style-type: none;
-  background-color: #af1111;
-  padding: 0px;
-  margin: 0px;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
+  background-color: #333;
 }
-.navbar a{
-  color: #0c2199;
-  text-decoration: none;
-  padding: 15px;
-  display: block;
-  text-align: center;
-}
-.navbar a:hover{
-  background-color: black;
-}
-.navbar li{
+
+li {
   float: left;
-  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a: hover {
+background-color: #111;
+}
